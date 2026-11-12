@@ -1,5 +1,3 @@
-# Ecolink Digital
-
 Ecolink Digital provides technology consulting, backend software engineering, and cloud solution architecture for businesses.
 
 ## Contact & Location
